@@ -38,9 +38,3 @@ ii.	After submit button, a train is added into the database. <br />
 •	Add Class in which no of seats available for each class are inserted for corresponding date and Train Number. <br />
 •	Add Fare where admin adds fare for each class in each train. <br />
 •	Train Enquiry which has the same applications as the USER one. <br />
-
-#### LIMITATIONS AND FUTURE PLANS :
-•	Fee payment is not included. It can be included by navigating to fee portal through cards, when pay button is pressed. A Receipt No can be generated after successful payment and can be inserted in the payment table, which is the primary key in Payment table. <br />
-•	If we want to cancel only one passengers ticket, when booked together with other passengers, then there may be some problem, since we have generated a PNR number for a ticket which can contain multiple passengers. <br />
-•	Train and PNR status can be displayed. These features can be added. <br />
-
